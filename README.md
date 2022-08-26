@@ -1,2 +1,21 @@
 # Making-NFT-Trading-Decisions-in-Real-Time
-This project aims to build a system that makes trading decisions on NFT collections based on the frequency and sentiment of the real-time Twitter data of NFT collection mentions
+            
+
+Part of the Real Time Intelligent Systems class at the University of Chicago's Master of Science in Analytics program 
+
+## Project Intro/Objective
+Build a model that makes trading decisions about NFT bundles in near real time using Tweet sentiment analysis
+
+## Methods Used
+- 
+
+
+## Technologies 
+- Python
+
+## Packages
+-
+
+## Dataset 
+-
+
